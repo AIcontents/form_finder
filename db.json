@@ -8,11 +8,16 @@
     "2": {
       "name": "Форма заказа",
       "customer": "text",
-      "order_id": "text",
-      "дата_заказа": "date",
-      "contact": "phone"
+      "дата_заказа": "date"
     },
     "3": {
+      "name": "Расширенная форма заказа",
+      "customer": "text",
+      "дата_заказа": "date",
+      "order_id": "text",
+      "contact": "phone"
+    },
+    "4": {
       "name": "Проба",
       "f_name1": "email",
       "f_name2": "date"
