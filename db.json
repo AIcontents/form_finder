@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Данные пользователя",
+    "login": "email",
+    "tel": "phone"
+  },
+  {
+    "name": "Форма заказа",
+    "customer": "text",
+    "order_id": "text",
+    "дата_заказа": "date",
+    "contact": "phone"
+  }
+]
