@@ -14,8 +14,8 @@
     },
     "3": {
       "name": "Проба",
-      "f_name1": "email",
-      "f_name2": "date"
+      "my_email": "email",
+      "birth": "date"
     }
   }
 }
