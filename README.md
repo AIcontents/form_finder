@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Запуск
 
 ```bash
-python app.py get_tpl --customer=Иван --дата_заказа=27.05.2025
+python app.py get_tpl --login=petya@example.com --tel="+7 999 123 45 67"
 ```
 
 Если шаблон найден, будет выведено его имя. Если нет — будет выведен словарь с определёнными типами данных.
