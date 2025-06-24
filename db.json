@@ -13,7 +13,7 @@
       "contact": "phone"
     },
     "3": {
-      "name": "Проба",
+      "name": "name",
       "my_email": "email",
       "birth": "date"
     }
